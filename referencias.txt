@@ -1,0 +1,14 @@
+Referencias
+-----------
+
+Descargas:
+http://www.python.org/
+
+
+Tutorial interactivo:
+
+http://www.afterhoursprogramming.com/tutorial/Python/Overview/
+
+Libros:
+
+http://www.diveintopython.net/
