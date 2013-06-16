@@ -5,10 +5,14 @@ Descargas:
 http://www.python.org/
 
 
-Tutorial interactivo:
+Tutoriales:
 
 http://www.afterhoursprogramming.com/tutorial/Python/Overview/
+
+Bucles y funciones:
+http://docs.python.org/2/tutorial/controlflow.html
 
 Libros:
 
 http://www.diveintopython.net/
+
