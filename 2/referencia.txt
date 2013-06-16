@@ -1,0 +1,9 @@
+** Listado de las librerías ya incluidas en Python, así como los metodos de cada funcion
+
+http://docs.python.org/2.7/library/
+
+
+** Una vez descargado Python en Windows, se descargará un entorno de trabajo (Muy básico)
+llamado "IDLE (Python GUI)", en el que servirá tanto de consola de python,
+como de editor de texto de python (File->NewWindow), donde se podrá ejecutar el código que
+se escriba pulsando Run->Run Module, o bien, F5.
