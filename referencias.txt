@@ -16,3 +16,5 @@ Libros:
 
 http://www.diveintopython.net/
 
+http://mundogeek.net/tutorial-python/
+
