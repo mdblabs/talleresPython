@@ -30,6 +30,7 @@ def main():
 			camionAux=camion(marca)
 			diccionarioVehiculos.update({nombre:camionAux})
 	
+	print diccionarioVehiculos
 	for key, value in diccionarioVehiculos.iteritems():
 		print key
 		print'---------'
@@ -43,7 +44,7 @@ def main():
 			tiempoCirculando=value.calculaTiempoCirculando()
 			
 			if tiempoCirculando>3:
-				print key
+				print value.marca
 				print'---------'
 				value.apagar()
 				print ' '
