@@ -10,3 +10,25 @@ Existen dos formas de descargarse los archivos:
 
 
 
+Referencias
+=========================
+
+Descargas:
+http://www.python.org/
+
+
+Tutoriales:
+
+http://www.afterhoursprogramming.com/tutorial/Python/Overview/
+
+Bucles y funciones:
+http://docs.python.org/2/tutorial/controlflow.html
+
+Libros:
+
+http://www.diveintopython.net/
+
+http://mundogeek.net/tutorial-python/
+
+
+
