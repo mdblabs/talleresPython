@@ -1,0 +1,28 @@
+En general, el metodo para instalar librerias externas
+en python es siempre el mismo, existirá un archivo
+llamado setup.py, que habrá que ejecutar desde consola
+de windows/unix, con el argumento "install"
+
+Para abrir una consola de Windows, estará en
+Inicio>Todos los programas>Accesorios>Linea de comandos
+o bien, en la barra de busqueda de inicio escribiendo
+"cmd" y pulsando intro.
+
+Una vez abierto, comprobar que se puede ejecutar python,
+escribiendo sin más, "python". (Sin comillas)
+
+Si no, tendrías que agregar la variable de entorno de
+C:\Python27;
+como indica
+http://www.anthonydebarros.com/2011/10/15/setting-up-python-in-windows-7/
+
+o bien escribir "\Python27\python"
+
+Una vez comprobado que se ejecuta python, se vuelve a
+abrir una nueva consola y se va al directorio donde
+contiene la libreria que se ha descargado,
+con el comando "cd", tipo,
+"cd C:\Users\Alejandro\Downloads\xlrd-0.9.2"
+y si es en ese directorio donde esta el setup.py,
+ejecutar
+"python setup.py install"
